@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+This is my public GitHub profile!
+- 📫 How to reach me: goncalooazevedo@outlook.com
+- 🔭 I’m currently working on my Bachelor's Degree
+- 🌱 I’m currently interested in the Python asyncio module
+- ⚡ Fun fact: I feel guilty for not using Go and Rust :(
 <!--
 **vugz/vugz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
